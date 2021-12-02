@@ -4,7 +4,6 @@
 
 <div>
   <a href="https://github.com/bbynog">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bbynog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbynog&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
