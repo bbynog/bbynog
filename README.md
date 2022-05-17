@@ -1,6 +1,6 @@
 ### BbyNog
 
-- Mobile Dev
+- Developer
 
 <div>
   <a href="https://github.com/bbynog">
