@@ -1,6 +1,6 @@
 ### bby
 
-- Developer
+- Software Developer
 
 <div>
   <a href="https://github.com/bbynog">
