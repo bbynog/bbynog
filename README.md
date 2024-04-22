@@ -1,6 +1,6 @@
 <a href="https://gabrielnogueira.tech/"><h2>Check out my portfolio!</h2></a>
 
-<a href="https://gabrielnogueira.tech/">- Software Developer</a>
+<a href="https://gabrielnogueira.tech/">Software Engineer</a>
 
 <div>
   <a href="https://gabrielnogueira.tech/">
