@@ -1,6 +1,4 @@
-<a href="https://gabrielnogueira.tech/"><h2>Check out my portfolio!</h2></a>
-
-<a href="https://gabrielnogueira.tech/">Software Engineer</a>
+<a href="https://usepan.ai/">Software Engineer & Co-Founder @ Pan AI</a>
 
 <div>
   <a href="https://gabrielnogueira.tech/">
