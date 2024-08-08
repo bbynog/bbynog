@@ -1,4 +1,4 @@
-<h1>Software Engineer & Co-Founder @ <a href="https://usepan.ai/" style="text-decoration: underline">Pan AI</a></h1>
+<h1>Software Engineer</h1>
 
 <div>
   <a href="https://gabrielnogueira.tech/">
